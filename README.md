@@ -1,11 +1,11 @@
-# @philiprehberger/ts-react-motion-components
+# @philiprehberger/react-motion-components
 
 Framer Motion animation primitives for React applications.
 
 ## Installation
 
 ```bash
-npm install @philiprehberger/ts-react-motion-components motion
+npm install @philiprehberger/react-motion-components motion
 ```
 
 ## Components
@@ -15,7 +15,7 @@ npm install @philiprehberger/ts-react-motion-components motion
 Scroll-triggered fade-up reveal. Content animates in once when it enters the viewport.
 
 ```tsx
-import { ScrollReveal } from '@philiprehberger/ts-react-motion-components';
+import { ScrollReveal } from '@philiprehberger/react-motion-components';
 
 <ScrollReveal delay={0.1}>
   <div>This fades in on scroll</div>
@@ -27,7 +27,7 @@ import { ScrollReveal } from '@philiprehberger/ts-react-motion-components';
 Page-level enter/exit animation wrapper.
 
 ```tsx
-import { PageTransition } from '@philiprehberger/ts-react-motion-components';
+import { PageTransition } from '@philiprehberger/react-motion-components';
 
 <PageTransition>
   <main>Page content</main>
@@ -39,7 +39,7 @@ import { PageTransition } from '@philiprehberger/ts-react-motion-components';
 Count-up number animation triggered on scroll.
 
 ```tsx
-import { AnimatedCounter } from '@philiprehberger/ts-react-motion-components';
+import { AnimatedCounter } from '@philiprehberger/react-motion-components';
 
 <AnimatedCounter target={100} suffix="+" label="Projects Delivered" />
 ```
@@ -49,7 +49,7 @@ import { AnimatedCounter } from '@philiprehberger/ts-react-motion-components';
 Animated hamburger-to-X menu icon.
 
 ```tsx
-import { HamburgerIcon } from '@philiprehberger/ts-react-motion-components';
+import { HamburgerIcon } from '@philiprehberger/react-motion-components';
 
 <HamburgerIcon isOpen={menuOpen} onClick={() => setMenuOpen(!menuOpen)} />
 ```
