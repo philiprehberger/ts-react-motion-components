@@ -1,6 +1,6 @@
 # @philiprehberger/react-motion-components
 
-[![CI](https://github.com/philiprehberger/react-motion-components/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/react-motion-components/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/react-motion-components/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/react-motion-components/actions/workflows/publish.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/react-motion-components.svg)](https://www.npmjs.com/package/@philiprehberger/react-motion-components)
 [![License](https://img.shields.io/github/license/philiprehberger/react-motion-components)](LICENSE)
 
@@ -61,6 +61,15 @@ import { HamburgerIcon } from '@philiprehberger/react-motion-components';
 ## Next.js Compatibility
 
 All components include the `'use client'` directive and work with Next.js App Router.
+
+
+## Development
+
+```bash
+npm install
+npm run build
+npm test
+```
 
 ## License
 

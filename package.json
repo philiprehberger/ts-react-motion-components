@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/react-motion-components",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Framer Motion animation primitives for React - scroll reveal, page transitions, animated counters, and more",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -55,8 +55,12 @@
     "url": "git+https://github.com/philiprehberger/ts-react-motion-components.git"
   },
   "homepage": "https://github.com/philiprehberger/ts-react-motion-components#readme",
-  "bugs": { "url": "https://github.com/philiprehberger/ts-react-motion-components/issues" },
+  "bugs": {
+    "url": "https://github.com/philiprehberger/ts-react-motion-components/issues"
+  },
   "author": "Philip Rehberger",
-  "engines": { "node": ">=18.0.0" },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "sideEffects": false
 }
