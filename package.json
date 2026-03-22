@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/react-motion-components",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Framer Motion animation primitives for React - scroll reveal, page transitions, animated counters, and more",
   "type": "module",
   "main": "./dist/index.cjs",
