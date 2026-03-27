@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-react-motion-components/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-react-motion-components/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/react-motion-components.svg)](https://www.npmjs.com/package/@philiprehberger/react-motion-components)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-react-motion-components)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Framer Motion animation primitives for React applications
 
